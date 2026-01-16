@@ -1,5 +1,6 @@
 # Crypto Zone 
 
+![Crypto Zone Preview](./screenshot.png)
 A modern Cryptocurrency Tracker built to practice and master **React 19**, **MUI v6**, and **Vite**.
 
 ### Developer: **Lenka Kopečná**
