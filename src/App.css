@@ -1,0 +1,38 @@
+/* App.css */
+
+/* We define the background and font here as a fallback for the entire app container */
+.App {
+  background-color: #14161a;
+  color: white;
+  min-height: 100vh;
+  font-family: "Montserrat", sans-serif;
+}
+
+/* Gold Global Link Style */
+a {
+  text-decoration: none;
+  color: gold;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  filter: brightness(1.2);
+}
+
+/* 2026 Modern Scrollbar (Custom Gold) */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #14161a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: gold;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ffcc00;
+}
